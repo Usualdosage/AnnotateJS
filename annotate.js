@@ -1,10 +1,9 @@
 ﻿/*!
  * Annotate.js v1.0 Javascript Library
- * http://annotatejs.codeplex.com
+ * https://github.com/Usualdosage/AnnotateJS
  *
  * Copyright 2014 by Matthew Martin
- * Released under the MIT license
- * http://annotatejs.codeplex.comlicense
+ * Released under the MPL 2.0 License
  *
  * Date: 2014-04-26
  */
